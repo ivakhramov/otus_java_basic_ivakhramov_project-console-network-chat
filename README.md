@@ -1,4 +1,4 @@
-#Ivan Vakhramov
+# Ivan Vakhramov
 ivan.vakhramov@yandex.ru
 
 # otus_java_basic_ivakhramov_project-console-network-chat
@@ -23,12 +23,12 @@ Task: Implement a client-server application "Network Chat" in java.io, which has
 • Automatic disconnection of clients who have been inactive for more than 20 minutes
 • Support for user roles (admin, user)
 
-#Client part:
+# Client part:
 • Ability to connect to the server
 • Ability to send and receive messages
 • Ability to disconnect from the server using the command /exit
 
-#General questions:
+# General questions:
 • All administrative actions can be performed through regular messages that start with /
 • /reg – registration
 • /auth – authentication
